@@ -56,6 +56,8 @@ uname -r
 ![image](https://github.com/AdityaKoranga/rhel-rtk/assets/95766110/57725246-970f-4cb8-9a44-8d2a0bd3f909)
 
 
+## Resources
+[Link1](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_for_real_time/7/html/installation_guide/chap-download)
 
-
+[Link2](https://linux.web.cern.ch/rt/Red_Hat_Enterprise_Linux_for_Real_Time-7-Installation_Guide-en-US.pdf)
 
